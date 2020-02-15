@@ -1,0 +1,7 @@
+D:\Projects\somethingBad\somethingBad\bin\Debug\somethingBad.exe.config
+D:\Projects\somethingBad\somethingBad\bin\Debug\somethingBad.exe
+D:\Projects\somethingBad\somethingBad\bin\Debug\somethingBad.pdb
+D:\Projects\somethingBad\somethingBad\obj\Debug\somethingBad.csprojAssemblyReference.cache
+D:\Projects\somethingBad\somethingBad\obj\Debug\somethingBad.csproj.CoreCompileInputs.cache
+D:\Projects\somethingBad\somethingBad\obj\Debug\somethingBad.exe
+D:\Projects\somethingBad\somethingBad\obj\Debug\somethingBad.pdb
